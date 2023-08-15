@@ -1,10 +1,10 @@
 # GitCommand
-gitclone "Directory"
-cd "navigate to the folder"
-pwd -> to see   which folder I am at
+gitclone "Directory" <br />
+cd "navigate to the folder" <br />
+pwd -> to see   which folder I am at <br />
 
-git status
+git status <br />
 
-git add --all\n
-git commit -m "message"
-git push
+git add --all <br />
+git commit -m "message" <br />
+git push <br />
